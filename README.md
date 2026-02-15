@@ -5,7 +5,7 @@ The objective of this assignment is to implement, evaluate, and deploy multiple 
 
 ## b. Dataset Description
 - **Dataset**: Breast Cancer Wisconsin (Diagnostic) Dataset.
-- **Source**: UCI Machine Learning Repository / Kaggle.
+- **Source**: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download (UCI - Kaggle)
 - **Features**: 30 numeric, predictive attributes (e.g., radius, texture, perimeter, area, smoothness). This meets the minimum requirement of 12 features.
 - **Instances**: 569 instances. This meets the minimum instance requirement of 500.
 - **Target**: Binary classification (Malignant / Benign).
